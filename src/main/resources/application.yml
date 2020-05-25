@@ -1,0 +1,13 @@
+server:
+ port: 8080
+ 
+spring:
+  datasource:
+    password: root
+    platform: postegres
+    url: jdbc:postgresql://localhost:5432/cooperativa
+    username: postgres
+  jpa:
+    database: POSTGRESQL
+    hibernate:
+      ddl-auto: update
