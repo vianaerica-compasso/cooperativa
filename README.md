@@ -6,8 +6,7 @@ Desafio técnico cooperativa V1.
 Java 14.0.1
 
 ## Instalação
-
-Docker: 
+Container no Docker: https://hub.docker.com/r/vianaerica/cooperativa
 
 ## Tecnologias
 Spring Boot - Java Framework
