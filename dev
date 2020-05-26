@@ -1,0 +1,34 @@
+0000000000000000000000000000000000000000 77e1e6e12aad0f91c2e4af23723e59b19bf3822a Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589811781 -0300	commit (initial): first commit
+77e1e6e12aad0f91c2e4af23723e59b19bf3822a 96f573c18b064b9fc849b1b7b76d106751cc9d3b Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589811869 -0300	commit: Criação do model de Associado
+96f573c18b064b9fc849b1b7b76d106751cc9d3b 3f2de2fa42326b1653cd9ca864f4578735efc74f Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812011 -0300	commit: Criação do model de Pauta
+3f2de2fa42326b1653cd9ca864f4578735efc74f 082baf84d3e20493a1ddb21ea11d87fb6f1c9b17 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812030 -0300	commit: Criação do model de Voto
+082baf84d3e20493a1ddb21ea11d87fb6f1c9b17 ac85a73ca53d17088680498d36794fcaad46af42 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812084 -0300	commit: Criação do repository de Asssociado
+ac85a73ca53d17088680498d36794fcaad46af42 726eb59e1e8a406fd5665bf05a4303a719390bf2 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812104 -0300	commit: Criação do repository de Pauta
+726eb59e1e8a406fd5665bf05a4303a719390bf2 ed02e973e7fbf6334afe23ec8df2095446feab6b Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812184 -0300	commit: Criação do repository de voto
+ed02e973e7fbf6334afe23ec8df2095446feab6b 2bbc54932f8d4d9506a94792fb93b4d0575c9ec7 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812291 -0300	commit: Criação de DTO para Associado
+2bbc54932f8d4d9506a94792fb93b4d0575c9ec7 7f5e93f50855b8c9d2a1f73e247290d89dabaf55 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812308 -0300	commit: Criação de DTO para Pauta
+7f5e93f50855b8c9d2a1f73e247290d89dabaf55 787c77f53403d1e30d5c27d9a74a68bbe1a26149 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812323 -0300	commit: Criação de DTO para voto
+787c77f53403d1e30d5c27d9a74a68bbe1a26149 eb8bd3b32b0399b848e42719719a465a58f427d0 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812349 -0300	commit: Criação de AssociadoService
+eb8bd3b32b0399b848e42719719a465a58f427d0 8e58552965e747531a32d138956cd54a42c126d3 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812369 -0300	commit: Criação de PautaService
+8e58552965e747531a32d138956cd54a42c126d3 280fb43e5baab762192eca369f8f3906a2200cc6 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812382 -0300	commit: Criação de VotoService
+280fb43e5baab762192eca369f8f3906a2200cc6 ca816370458d2cff0e531b1f90642590905035f4 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812445 -0300	commit: Criação da classe Votacao, para encerrar TimerTask
+ca816370458d2cff0e531b1f90642590905035f4 a1439e0093cb701d2040bcd36814731de7f18cc2 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812568 -0300	commit: Criação do AssociadoController
+a1439e0093cb701d2040bcd36814731de7f18cc2 292b0da8aaf7acd4685dc0c9b7f6290ab65b5e92 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812585 -0300	commit: Criação de PautaController
+292b0da8aaf7acd4685dc0c9b7f6290ab65b5e92 a1291170da3ffcebd6c2a865416d0efe893e3e80 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812600 -0300	commit: Criação de VotoController
+a1291170da3ffcebd6c2a865416d0efe893e3e80 d7f8276b3e242ef8b81da41bff6d55d40999a37b Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812639 -0300	commit: Adicionando classes para tratamento de mensagem de erro
+d7f8276b3e242ef8b81da41bff6d55d40999a37b 61c2916cf264d996fd82fd4448ffc9d41243c83c Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812662 -0300	commit: Criação de classe para tratamento de erro de Associado
+61c2916cf264d996fd82fd4448ffc9d41243c83c f656c38ba13999b1d9106bf3093345b47800d225 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812680 -0300	commit: Criação de classe para tratamento de erro de Pauta
+f656c38ba13999b1d9106bf3093345b47800d225 a7e53fc962bf1590ee7c2c6585aaac67cde2bdc0 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589812719 -0300	commit: Criação de classe para tratamento de erro de Voto
+a7e53fc962bf1590ee7c2c6585aaac67cde2bdc0 215178c215e5ff6964d00452e007afaf9d0d08f3 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589813310 -0300	commit: Configuração de dependências e configurações da aplicação
+215178c215e5ff6964d00452e007afaf9d0d08f3 dbc68d10760885a7c65eb29deab96c58d47273ae Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589813526 -0300	commit: Correção da condicional para contar quantos votos 'SIM'
+dbc68d10760885a7c65eb29deab96c58d47273ae 51dc8b436b869979e6bb93849472a40ab8e0df78 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589815032 -0300	commit: Correção na estrutura do banco de dados
+51dc8b436b869979e6bb93849472a40ab8e0df78 2ce1822a9213819bded9f22c44f61c4b39423cd3 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589819431 -0300	commit: Alteração no banco de dados
+2ce1822a9213819bded9f22c44f61c4b39423cd3 0aa667121d8d5d47d0aa4b49a9f6e4c44d57c162 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589821179 -0300	commit: Adicionando dependência do JUnit, para testes
+0aa667121d8d5d47d0aa4b49a9f6e4c44d57c162 58ad54696725b28c9dd0fe9039b9de433536ebfd Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589821591 -0300	commit: Adicionando dependência do Swagger
+58ad54696725b28c9dd0fe9039b9de433536ebfd b37751b91f0932c3d59a92b8d00c97f3f45a0e0f Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589821909 -0300	commit: Criando classe de configuração do Swagger
+b37751b91f0932c3d59a92b8d00c97f3f45a0e0f 70a833d2a247934adef2c5868068d8435c7b06e7 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589824550 -0300	commit: Adicionando informações do swagger nos models
+70a833d2a247934adef2c5868068d8435c7b06e7 8483c22f501e52794a8baeca9545362fc25adb6f Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589825852 -0300	commit: Adicionando informações do swagger no controller
+8483c22f501e52794a8baeca9545362fc25adb6f 0240c0081b370fa59f0482394026545958d1e98a Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589827136 -0300	commit: Correção da validação de voto
+0240c0081b370fa59f0482394026545958d1e98a 5c6fe970154a5229c2329b1564197352930cee35 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589827229 -0300	commit: Correção da validação do voto
+5c6fe970154a5229c2329b1564197352930cee35 3dc3c7734597ebdaca45ef39a7e95c35ac7115e7 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589832203 -0300	commit: Construtor padrão
+3dc3c7734597ebdaca45ef39a7e95c35ac7115e7 2734d721ce0c30be7ab6f5ed7c0646f722d16d33 Erica Viana <erica.viana@CTNDELL1Z5RLZ1.pampa.compasso> 1589832398 -0300	commit: Collection do postman, teste da API
