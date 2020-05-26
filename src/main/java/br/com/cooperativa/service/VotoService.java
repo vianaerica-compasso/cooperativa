@@ -67,8 +67,8 @@ public class VotoService {
 			throw new VotoException("Voto inválido.", null);
 		}
 
-		if (voto.getVoto().isBlank() || voto.getVoto().isEmpty()) {
-			logger.error("Erro no cadastro do voto. Voto nulo ou vazio.");
+		if (voto.getVoto().isEmpty()) {
+			logger.error("Erro no cadastro do voto. Voto vazio.");
 			throw new VotoException("Voto inválido.", null);
 		}
 
